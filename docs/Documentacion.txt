@@ -1,0 +1,2 @@
+1. ejecutar en consola npm init -y para crear el package.json 
+2. Ejecutar npm i express para descargar los datos necesarios para node js 
